@@ -12,7 +12,7 @@ const IndexPage = () => (
     <p>Welcome to your new Pete's site.</p>
     <p>Now go build something GREAT!!!.</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image />
+      <img src="https://i.kym-cdn.com/entries/icons/original/000/026/489/crying.jpg" alt="Crying cat"/>
     </div>
     <Link to="/page-2/">Go to page 2</Link>
   </Layout>
